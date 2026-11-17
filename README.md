@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Guilherme Anselmo — Data Science &amp; AI" width="900" />
+  <img src="assets/banner.svg" alt="Guilherme Anselmo, Data Science &amp; AI" width="900" />
 </p>
 
 <p align="center">
-  <strong><code>MISSION CONTROL // DEEP DIVE BRIEFING</code></strong><br />
+  <strong>DEEP DIVE BRIEFING</strong><br />
   <sub>HOXXES IV · DATA / CYBERSECURITY / DEVELOPMENT</sub>
 </p>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="assets/icons/helmet.svg" width="24" alt="" /> `01 // MISSION`
+## <img src="assets/icons/helmet.svg" width="24" alt="" /> Mission
 
 **Primary objective:** graduate in **Data Science & AI at UniSENAI (2028)**.
 
@@ -39,7 +39,7 @@ One objective at a time. Even when the cave has seventeen interesting tunnels.
 
 **Hazard modifier:** scope creep. Bosco has been told not to encourage it.
 
-## <img src="assets/icons/pickaxe.svg" width="24" alt="" /> `02 // LOADOUT`
+## <img src="assets/icons/pickaxe.svg" width="24" alt="" /> Loadout
 
 **Primary · data extraction & analysis**
 
@@ -76,9 +76,9 @@ One objective at a time. Even when the cave has seventeen interesting tunnels.
 
 *Resupply policy: refill the tools before blaming the cave. Nitra is not a package manager.*
 
-## <img src="assets/icons/crystal.svg" width="24" alt="" /> `03 // OBJECTIVE BOARD`
+## <img src="assets/icons/crystal.svg" width="24" alt="" /> Objective Board
 
-### <img src="assets/icons/drop-pod.svg" width="24" alt="" /> `DOING // boots on the ground`
+### <img src="assets/icons/drop-pod.svg" width="24" alt="" /> Doing: boots on the ground
 
 | Assignment | Briefing |
 |:--|:--|
@@ -86,7 +86,7 @@ One objective at a time. Even when the cave has seventeen interesting tunnels.
 | <img src="assets/icons/helmet.svg" width="24" alt="" /> **Mnemo** · private | In development. Still inside the drop pod. Bosco is indexing the luggage. |
 | <img src="assets/icons/crystal.svg" width="24" alt="" /> **[Datathon Kirasapiens](https://github.com/gilas-byte/datathon-kirasapiens)** | Team project for Datathon CDIA 2026. Hazard 4: the swarm brought a CSV. |
 
-### <img src="assets/icons/pickaxe.svg" width="24" alt="" /> `PARKED // left it in the cave`
+### <img src="assets/icons/pickaxe.svg" width="24" alt="" /> Parked: left it in the cave
 
 No shame in marking the tunnel and coming back with more ammo.
 
@@ -96,7 +96,7 @@ No shame in marking the tunnel and coming back with more ammo.
 | <img src="assets/icons/drop-pod.svg" width="24" alt="" /> **[my-version-termo](https://github.com/gilas-byte/my-version-termo)** | Parked. Extraction date: eventually. Five letters. Somehow a Deep Dive. |
 | <img src="assets/icons/beer-barrel.svg" width="24" alt="" /> **bar-do-papaio** · private | Left it in the cave. Please don't drink the evidence. Leaf-lovers get read-only access. |
 
-### <img src="assets/icons/beer-barrel.svg" width="24" alt="" /> `SHIPPED // cargo secured`
+### <img src="assets/icons/beer-barrel.svg" width="24" alt="" /> Shipped: cargo secured
 
 | Delivery | Recovered cargo |
 |:--|:--|
@@ -107,7 +107,7 @@ No shame in marking the tunnel and coming back with more ammo.
 | <img src="assets/icons/helmet.svg" width="24" alt="" /> **[macOS-Arch-theme](https://github.com/gilas-byte/macOS-Arch-theme)** · **[OlMaganize-OS-Theme](https://github.com/gilas-byte/OlMaganize-OS-Theme)** | Desktop themes. Even the space rig deserves a decent interface. Management declined the decoration budget. |
 | <img src="assets/icons/drop-pod.svg" width="24" alt="" /> **[Datathon pages](https://gilas-byte.github.io/datathon-kirasapiens/)** | Published site for the datathon project. Cargo delivered; the mission above is still active. Drop pod returned; paperwork did not. |
 
-## <img src="assets/icons/terminal.svg" width="24" alt="" /> `04 // FIELD REPORT`
+## <img src="assets/icons/terminal.svg" width="24" alt="" /> Field Report
 
 Telemetry from the space rig. Private expeditions don't all show up on the scanner.
 
@@ -130,7 +130,5 @@ Telemetry from the space rig. Private expeditions don't all show up on the scann
 ---
 
 <p align="center">
-  <img src="assets/icons/pickaxe.svg" width="24" alt="" /> <strong><code>ROCK AND STONE!</code></strong><br />
-  <sub><code>rock and stone, or you ain't comin' home</code></sub>
-  <br /><sub>Did I hear a Rock and Stone? Salute! For Karl!</sub>
+  <img src="assets/icons/pickaxe.svg" width="24" alt="" /> <strong>Rock and Stone!</strong>
 </p>
