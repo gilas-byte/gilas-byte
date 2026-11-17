@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Mission control field terminal</title>
+  <g stroke="#FF8C1A" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel">
+    <path d="M10 6H37L43 12V34L38 39H10L5 34V11Z" fill="#211A14"/>
+    <path d="M10 12H34V31H10Z" fill="#0F1311"/>
+    <path d="m15 17 5 4-5 4m9 0h5" fill="none" stroke="#49C9B4"/>
+    <path d="M38 17V21M38 27V29M19 39V43M29 39V43M14 43H34" fill="none"/>
+    <path d="M11 35H18" fill="none" stroke="#FFB000"/>
+  </g>
+</svg>

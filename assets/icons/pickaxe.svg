@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Mining pickaxe</title>
+  <g stroke="#FF8C1A" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel">
+    <path d="m25 13 6 5-16 24-6-4Z" fill="#713817"/>
+    <path d="m15 30 6 4m-10 1 6 4" fill="none"/>
+    <path d="m5 14 11-7 13 1 11 9 3 10-13-11-10-2Z" fill="#211A14"/>
+    <path d="m16 7 4 7 10 2-1-8Z" fill="#FFB000"/>
+    <path d="m7 14 9-3m18 6 7 7" fill="none" stroke="#FFB000"/>
+  </g>
+</svg>

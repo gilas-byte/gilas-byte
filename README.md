@@ -16,9 +16,11 @@
 
 > **MISSION CONTROL:** Listen up, miner. The data is messy, the bugs have armor, and Management still wants a dashboard.
 
+*Elevator ride: briefing loading. Mission Control says the wait is not billable.*
+
 ---
 
-## `01 // MISSION`
+## <img src="assets/icons/helmet.svg" width="24" alt="" /> `01 // MISSION`
 
 **Primary objective:** graduate in **Data Science & AI at UniSENAI (2028)**.
 
@@ -35,7 +37,9 @@ SIDE QUEST  Reverse-engineer a DRG binary save format. For fun.
 
 One objective at a time. Even when the cave has seventeen interesting tunnels.
 
-## `02 // LOADOUT`
+**Hazard modifier:** scope creep. Bosco has been told not to encourage it.
+
+## <img src="assets/icons/pickaxe.svg" width="24" alt="" /> `02 // LOADOUT`
 
 **Primary · data extraction & analysis**
 
@@ -70,40 +74,44 @@ One objective at a time. Even when the cave has seventeen interesting tunnels.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## `03 // OBJECTIVE BOARD`
+*Resupply policy: refill the tools before blaming the cave. Nitra is not a package manager.*
 
-### `DOING // boots on the ground`
+## <img src="assets/icons/crystal.svg" width="24" alt="" /> `03 // OBJECTIVE BOARD`
+
+### <img src="assets/icons/drop-pod.svg" width="24" alt="" /> `DOING // boots on the ground`
 
 | Assignment | Briefing |
 |:--|:--|
-| **[PC Builder](https://github.com/gilas-byte/pc-builder)** | Local dashboard tracking PC component prices. Mining for a decent deal. |
-| **Mnemo** · private | In development. Still inside the drop pod. |
-| **[Datathon Kirasapiens](https://github.com/gilas-byte/datathon-kirasapiens)** | Team project for Datathon CDIA 2026. |
+| <img src="assets/icons/pickaxe.svg" width="24" alt="" /> **[PC Builder](https://github.com/gilas-byte/pc-builder)** | Local dashboard tracking PC component prices. Mining for a decent deal. The M.U.L.E. refuses surge pricing. |
+| <img src="assets/icons/helmet.svg" width="24" alt="" /> **Mnemo** · private | In development. Still inside the drop pod. Bosco is indexing the luggage. |
+| <img src="assets/icons/crystal.svg" width="24" alt="" /> **[Datathon Kirasapiens](https://github.com/gilas-byte/datathon-kirasapiens)** | Team project for Datathon CDIA 2026. Hazard 4: the swarm brought a CSV. |
 
-### `PARKED // left it in the cave`
+### <img src="assets/icons/pickaxe.svg" width="24" alt="" /> `PARKED // left it in the cave`
 
 No shame in marking the tunnel and coming back with more ammo.
 
 | Assignment | Recovery note |
 |:--|:--|
-| **[Papi-Mine-Servers](https://github.com/gilas-byte/Papi-Mine-Servers)** | Minecraft server monitor. Different mine, same habit. |
-| **[my-version-termo](https://github.com/gilas-byte/my-version-termo)** | Parked. Extraction date: eventually. |
-| **bar-do-papaio** · private | Left it in the cave. Please don't drink the evidence. |
+| <img src="assets/icons/terminal.svg" width="24" alt="" /> **[Papi-Mine-Servers](https://github.com/gilas-byte/Papi-Mine-Servers)** | Minecraft server monitor. Different mine, same habit. Mission Control still wants uptime. |
+| <img src="assets/icons/drop-pod.svg" width="24" alt="" /> **[my-version-termo](https://github.com/gilas-byte/my-version-termo)** | Parked. Extraction date: eventually. Five letters. Somehow a Deep Dive. |
+| <img src="assets/icons/beer-barrel.svg" width="24" alt="" /> **bar-do-papaio** · private | Left it in the cave. Please don't drink the evidence. Leaf-lovers get read-only access. |
 
-### `SHIPPED // cargo secured`
+### <img src="assets/icons/beer-barrel.svg" width="24" alt="" /> `SHIPPED // cargo secured`
 
 | Delivery | Recovered cargo |
 |:--|:--|
-| **[DRG-Stats-Tracker](https://github.com/gilas-byte/DRG-Stats-Tracker)** | Binary save parsing, kill counts and progression snapshots. The bugs became rows in SQLite. |
-| **[DopaNotes](https://github.com/gilas-byte/DopaNotes)** | Tasks, habits and notes, backed by a REST API. For brains with too many side quests. |
-| **[projetoAplicado3 · Radar ENEM](https://github.com/gilas-byte/projetoAplicado3)** | Streamlit dashboard for exploring ENEM data. |
-| **[youtube-transcriber](https://github.com/gilas-byte/youtube-transcriber)** | YouTube transcription tool. Recovered the words; skipped the replay. |
-| **[macOS-Arch-theme](https://github.com/gilas-byte/macOS-Arch-theme)** · **[OlMaganize-OS-Theme](https://github.com/gilas-byte/OlMaganize-OS-Theme)** | Desktop themes. Even the space rig deserves a decent interface. |
-| **[Datathon pages](https://gilas-byte.github.io/datathon-kirasapiens/)** | Published site for the datathon project. Cargo delivered; the mission above is still active. |
+| <img src="assets/icons/bug.svg" width="24" alt="" /> **[DRG-Stats-Tracker](https://github.com/gilas-byte/DRG-Stats-Tracker)** | Binary save parsing, kill counts and progression snapshots. The bugs became rows in SQLite. For Karl, and for referential integrity. |
+| <img src="assets/icons/helmet.svg" width="24" alt="" /> **[DopaNotes](https://github.com/gilas-byte/DopaNotes)** | Tasks, habits and notes, backed by a REST API. For brains with too many side quests. The M.U.L.E. carries the backlog. |
+| <img src="assets/icons/crystal.svg" width="24" alt="" /> **[projetoAplicado3 · Radar ENEM](https://github.com/gilas-byte/projetoAplicado3)** | Streamlit dashboard for exploring ENEM data. Morkite is easier to find than a clean CSV. |
+| <img src="assets/icons/terminal.svg" width="24" alt="" /> **[youtube-transcriber](https://github.com/gilas-byte/youtube-transcriber)** | YouTube transcription tool. Recovered the words; skipped the replay. Mission Control finally gets subtitles. |
+| <img src="assets/icons/helmet.svg" width="24" alt="" /> **[macOS-Arch-theme](https://github.com/gilas-byte/macOS-Arch-theme)** · **[OlMaganize-OS-Theme](https://github.com/gilas-byte/OlMaganize-OS-Theme)** | Desktop themes. Even the space rig deserves a decent interface. Management declined the decoration budget. |
+| <img src="assets/icons/drop-pod.svg" width="24" alt="" /> **[Datathon pages](https://gilas-byte.github.io/datathon-kirasapiens/)** | Published site for the datathon project. Cargo delivered; the mission above is still active. Drop pod returned; paperwork did not. |
 
-## `04 // FIELD REPORT`
+## <img src="assets/icons/terminal.svg" width="24" alt="" /> `04 // FIELD REPORT`
 
 Telemetry from the space rig. Private expeditions don't all show up on the scanner.
+
+*Mission Control says green numbers are good. It has not inspected the cave.*
 
 <!-- Cards regenerated by .github/workflows/stats.yml; served from this repository. -->
 <p align="center">
@@ -122,6 +130,7 @@ Telemetry from the space rig. Private expeditions don't all show up on the scann
 ---
 
 <p align="center">
-  <strong><code>ROCK AND STONE!</code></strong> ⛏️<br />
+  <img src="assets/icons/pickaxe.svg" width="24" alt="" /> <strong><code>ROCK AND STONE!</code></strong><br />
   <sub><code>rock and stone, or you ain't comin' home</code></sub>
+  <br /><sub>Did I hear a Rock and Stone? Salute! For Karl!</sub>
 </p>
