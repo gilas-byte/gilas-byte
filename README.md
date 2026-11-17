@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>DEEP DIVE BRIEFING</strong><br />
-  <sub>HOXXES IV · DATA / CYBERSECURITY / DEVELOPMENT</sub>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/guilherme-da-silva-anselmo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guilherme.silva.anselmo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/gilasx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
