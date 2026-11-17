@@ -1,10 +1,10 @@
-<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/banner.svg" alt="Guilherme Anselmo — Data Science & AI" width="900" />
+  <img src="assets/banner.svg" alt="Guilherme Anselmo — Data Science &amp; AI" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=620&lines=Turning+messy+data+into+decisions;Python+%E2%80%A2+SQL+%E2%80%A2+FastAPI+%E2%80%A2+Streamlit;Currently+wrestling+with+imbalanced+datasets;Rock+and+Stone!+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
+  <strong><code>MISSION CONTROL // DEEP DIVE BRIEFING</code></strong><br />
+  <sub>HOXXES IV · DATA / CYBERSECURITY / DEVELOPMENT</sub>
 </p>
 
 <p align="center">
@@ -14,44 +14,34 @@
   <a href="https://www.youtube.com/@Intervorder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/gilas-byte?style=flat-square&logo=github&color=00E5A0&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=gilas-byte&label=Profile%20views&color=00E5A0&style=flat-square" />
-</p>
+> **MISSION CONTROL:** Listen up, miner. The data is messy, the bugs have armor, and Management still wants a dashboard.
 
 ---
 
-## `> whoami`
+## `01 // MISSION`
 
-Data Science & AI undergrad at **UniSENAI Florianópolis** (class of 2028), heading for **data analytics**.
+**Primary objective:** graduate in **Data Science & AI at UniSENAI (2028)**.
 
-I got into code in high school and got hooked on the same thing that hooks everyone: you type text, and a whole system wakes up. These days I mostly live in **Python**, **PostgreSQL** and whatever tool the problem demands — building ETL pipelines, small APIs, and dashboards that turn raw noise into something a human can actually act on.
+**Secondary objectives:** land a role in **data or cybersecurity**, and ship side quests along the way. Management gets the report.
 
-```yaml
-location:  Florianópolis, SC — remote or hybrid
-studying:  Data Science & AI  ·  4th semester
-building:  DopaNotes (FastAPI + PostgreSQL + Docker)
-learning:  Machine Learning, Power BI, data modeling
-looking:   data analytics internship
-fun_fact:  I reverse-engineered a game's binary save format for fun
+```text
+OPERATOR    Guilherme Anselmo / gilas-byte
+BASE        Florianópolis, SC, Brazil
+AGE         20
+TRAINING    4th semester · Data Science & AI
+WORKFLOW    ADHD-friendly: small objectives, visible progress
+SIDE QUEST  Reverse-engineer a DRG binary save format. For fun.
 ```
 
----
+One objective at a time. Even when the cave has seventeen interesting tunnels.
 
-## `> stack`
+## `02 // LOADOUT`
 
-**Languages**
+**Primary · data extraction & analysis**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-**Data & ML**
-
-<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -60,48 +50,65 @@ fun_fact:  I reverse-engineered a game's binary save format for fun
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-**Backend & Web**
+**Secondary · APIs & interfaces**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
 </p>
 
-**Tooling**
+**Utility · deployment & field tools**
 
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+## `03 // OBJECTIVE BOARD`
 
-## `> projects`
+### `DOING // boots on the ground`
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **[DRG-Stats-Tracker](https://github.com/gilas-byte/DRG-Stats-Tracker)** ⛏️ | Reverse-engineers Deep Rock Galactic's binary save file (Unreal GVAS) to track kills per enemy and progression over time. Snapshots go into SQLite, dashboard on top. | `Python` `SQLite` `Streamlit` |
-| **[DopaNotes](https://github.com/gilas-byte/DopaNotes)** 🧠 | Task, habit and note manager built for easily distracted brains. Full REST API with relational modeling and containerized dev environment. | `FastAPI` `PostgreSQL` `Docker` |
-| **[TPPK](https://github.com/gilas-byte/TPPK-The_Personal_Pocket_Knife)** 🔪 | A digital Swiss Army knife: OS maintenance tools for Windows & Arch, a study-notes reader, and GitHub-powered auto-updates. | `Python` `CustomTkinter` |
-| **[Papi-Mine-Servers](https://github.com/gilas-byte/Papi-Mine-Servers)** 🖥️ | Real-time Minecraft server monitor with a retro-terminal aesthetic. Favorites persisted in a database, plus analytical charts of server activity. | `Python` `Streamlit` `Supabase` |
+| Assignment | Briefing |
+|:--|:--|
+| **[PC Builder](https://github.com/gilas-byte/pc-builder)** | Local dashboard tracking PC component prices. Mining for a decent deal. |
+| **Mnemo** · private | In development. Still inside the drop pod. |
+| **[Datathon Kirasapiens](https://github.com/gilas-byte/datathon-kirasapiens)** | Team project for Datathon CDIA 2026. |
 
-<sub>More in the <a href="https://github.com/gilas-byte?tab=repositories">repositories tab</a> — including coursework in PL/pgSQL and BI.</sub>
+### `PARKED // left it in the cave`
 
----
+No shame in marking the tunnel and coming back with more ammo.
 
-## `> stats`
+| Assignment | Recovery note |
+|:--|:--|
+| **[Papi-Mine-Servers](https://github.com/gilas-byte/Papi-Mine-Servers)** | Minecraft server monitor. Different mine, same habit. |
+| **[my-version-termo](https://github.com/gilas-byte/my-version-termo)** | Parked. Extraction date: eventually. |
+| **bar-do-papaio** · private | Left it in the cave. Please don't drink the evidence. |
 
-<!--
-  These SVGs are regenerated daily by .github/workflows/stats.yml and committed
-  into this repo, so GitHub itself serves them. No external service, no rate limit.
--->
+### `SHIPPED // cargo secured`
+
+| Delivery | Recovered cargo |
+|:--|:--|
+| **[DRG-Stats-Tracker](https://github.com/gilas-byte/DRG-Stats-Tracker)** | Binary save parsing, kill counts and progression snapshots. The bugs became rows in SQLite. |
+| **[DopaNotes](https://github.com/gilas-byte/DopaNotes)** | Tasks, habits and notes, backed by a REST API. For brains with too many side quests. |
+| **[projetoAplicado3 · Radar ENEM](https://github.com/gilas-byte/projetoAplicado3)** | Streamlit dashboard for exploring ENEM data. |
+| **[youtube-transcriber](https://github.com/gilas-byte/youtube-transcriber)** | YouTube transcription tool. Recovered the words; skipped the replay. |
+| **[macOS-Arch-theme](https://github.com/gilas-byte/macOS-Arch-theme)** · **[OlMaganize-OS-Theme](https://github.com/gilas-byte/OlMaganize-OS-Theme)** | Desktop themes. Even the space rig deserves a decent interface. |
+| **[Datathon pages](https://gilas-byte.github.io/datathon-kirasapiens/)** | Published site for the datathon project. Cargo delivered; the mission above is still active. |
+
+## `04 // FIELD REPORT`
+
+Telemetry from the space rig. Private expeditions don't all show up on the scanner.
+
+<!-- Cards regenerated by .github/workflows/stats.yml; served from this repository. -->
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/stats.svg" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/top-langs.svg" alt="Top languages" />
+  <img height="165" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -112,9 +119,9 @@ fun_fact:  I reverse-engineered a game's binary save format for fun
   </picture>
 </p>
 
-<!-- ==================== FOOTER ==================== -->
 ---
 
 <p align="center">
-  <sub><code>rock and stone, or you ain't comin' home</code> ⛏️</sub>
+  <strong><code>ROCK AND STONE!</code></strong> ⛏️<br />
+  <sub><code>rock and stone, or you ain't comin' home</code></sub>
 </p>
