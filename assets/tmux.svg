@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" role="img" aria-label="tmux status bar">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}</style><rect width="900" height="28" rx="4" fill="#173222"/>
+<rect width="158" height="28" rx="4" fill="#3DDC84"/><text x="12" y="19" font-size="13" font-weight="700" fill="#06130A">[gilas] 0:readme*</text>
+<text x="888" y="19" font-size="13" text-anchor="end" fill="#9CCDAE">Florianópolis, SC  ·  UTC-3</text></svg>

@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=gilas-byte&show_icons=true&hide_border=true&title_color=00E5A0&icon_color=00E5A0&text_color=c9d1d9&bg_color=0D1117
+          options: username=gilas-byte&show_icons=true&title_color=3DDC84&icon_color=3DDC84&text_color=CFEFD9&bg_color=0C140E&border_color=173222&border_radius=6
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,9 +31,13 @@ jobs:
           # exclude_repo drops the Jupyter coursework repo, whose saved notebook
           # output would otherwise dominate the chart by byte count
           card: top-langs
-          options: username=gilas-byte&layout=compact&langs_count=8&exclude_repo=aulas-b.i.&hide_border=true&title_color=00E5A0&text_color=c9d1d9&bg_color=0D1117
+          options: username=gilas-byte&layout=compact&langs_count=8&exclude_repo=aulas-b.i.&title_color=3DDC84&text_color=CFEFD9&bg_color=0C140E&border_color=173222&border_radius=6
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Use the terminal font on the card titles
+        run: |
+          sed -i "s/'Segoe UI', Ubuntu, Sans-Serif/ui-monospace, SFMono-Regular, Menlo, Consolas, monospace/g" assets/stats.svg assets/top-langs.svg
 
       - name: Commit cards
         run: |

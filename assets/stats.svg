@@ -12,8 +12,8 @@
         <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 307, Total PRs: 9, Total Issues: 1, Contributed to (last year): 3</desc>
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #00E5A0;
+            font: 600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+            fill: #3DDC84;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #CFEFD9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
+      font: 800 24px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #CFEFD9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #00E5A0;
+      fill: #3DDC84;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #00E5A0;
+      stroke: #3DDC84;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #00E5A0;
+      stroke: #3DDC84;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -114,12 +114,12 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="6"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#173222"
           width="466"
-          fill="#0D1117"
-          stroke-opacity="0"
+          fill="#0C140E"
+          stroke-opacity="1"
         />
 
         
